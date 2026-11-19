@@ -1,0 +1,30 @@
+KB-004
+Reservation Troubleshooting Guide
+StayEase | Synthetic knowledge article for SupportIQ portfolio demonstration
+Audience: Guest; Hotel Partner | Category: Reservations | Owner: Support Operations
+Status: Synthetic demo content | Version: 1.0
+DEMO NOTICE: Fictional content for product design, retrieval and evaluation; not a real operational policy.
+
+BOOKING STATUS IS PENDING
+-------------------------
+A pending request is not a confirmed reservation. Wait for the official status update or contact support if it remains unresolved.
+
+CONFIRMATION EMAIL/MESSAGE IS MISSING
+-------------------------------------
+Search your registered email/app notifications and contact support with your reservation ID or the details requested for verification.
+
+PROPERTY CANNOT LOCATE MY RESERVATION
+-------------------------------------
+Provide the reservation ID and stay dates to support. The team will compare the StayEase record with the property mapping.
+
+NAME OR DATE IS INCORRECT
+-------------------------
+Contact support. A correction or modification is not complete until the authoritative reservation record is updated.
+
+I MAY HAVE BOOKED TWICE
+-----------------------
+Do not assume one booking will automatically cancel. Contact support with each reservation reference so both records and related payments can be checked.
+
+ROOM TYPE DIFFERS FROM CONFIRMATION
+-----------------------------------
+Keep the confirmation details and contact support. The team will verify the booked room type and coordinate with the property.

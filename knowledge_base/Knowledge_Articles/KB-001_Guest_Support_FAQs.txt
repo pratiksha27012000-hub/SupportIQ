@@ -1,0 +1,30 @@
+KB-001
+Guest Support FAQs
+StayEase | Synthetic knowledge article for SupportIQ portfolio demonstration
+Audience: Guest | Category: General Support | Owner: Support Operations
+Status: Synthetic demo content | Version: 1.0
+DEMO NOTICE: Fictional content for product design, retrieval and evaluation; not a real operational policy.
+
+HOW DO I KNOW MY BOOKING IS CONFIRMED?
+--------------------------------------
+Check for a confirmation message containing a reservation ID and verify that the booking status is Confirmed. A payment notification alone does not prove confirmation.
+
+I DID NOT RECEIVE A CONFIRMATION. WHAT SHOULD I DO?
+---------------------------------------------------
+Contact support with your reservation ID if available. If you do not have one, support will use the approved verification process to search for the booking.
+
+CAN I CHANGE MY DATES OR ROOM?
+------------------------------
+Changes depend on the reservation terms, availability and property approval. Support will check the booking-specific conditions.
+
+CAN I CANCEL AND RECEIVE A REFUND?
+----------------------------------
+Refund eligibility depends on the cancellation terms attached to your reservation and the recorded cancellation outcome. See the refund status guidance.
+
+WHAT SHOULD I DO IF THE PROPERTY CANNOT FIND MY BOOKING?
+--------------------------------------------------------
+Contact support and provide your reservation ID. Do not create a second booking until support checks the existing reservation and payment status.
+
+CAN SOMEONE ELSE CONTACT SUPPORT FOR MY BOOKING?
+------------------------------------------------
+Reservation details are shared only after the approved verification or authorisation process.

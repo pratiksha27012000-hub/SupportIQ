@@ -1,0 +1,41 @@
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node and Next.js
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# Local databases and vector stores
+*.sqlite
+*.sqlite3
+*.db
+chroma_db/
+chroma/
+vector_store/
+
+# Logs
+*.log
+logs/
+
+# IDE and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel/

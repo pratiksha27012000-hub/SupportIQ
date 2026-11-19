@@ -1,0 +1,39 @@
+
+[
+  {
+    "query": "Can I get an early check-in?",
+    "expected_outcome": "answer",
+    "expected_document_id": "POL-GST-006"
+  },
+  {
+    "query": "Can you arrange airport pickup for me?",
+    "expected_outcome": "abstain",
+    "expected_document_id": null
+  },
+  {
+    "query": "What is the refund timeline?",
+    "expected_outcome": "answer",
+    "expected_document_id": "POL-GST-003"
+  },
+  {
+    "query": "Can I cancel my reservation?",
+    "expected_outcome": "answer",
+    "expected_document_id": "POL-GST-003",
+    "expected_relevant_chunk_ids": [
+        "POL-GST-002_CHUNK_003"
+    ]   
+  },
+  {
+    "query": "Do you provide airport transfers?",
+    "expected_outcome": "abstain",
+    "expected_document_id": null
+  },
+  {
+    "query": "Can I get a complimentary room upgrade?",
+    "expected_outcome": "abstain",
+    "expected_document_id": null,
+    "expected_relevant_chunk_ids": [
+        "POL-GST-008_CHUNK_004"
+    ]
+  }
+]

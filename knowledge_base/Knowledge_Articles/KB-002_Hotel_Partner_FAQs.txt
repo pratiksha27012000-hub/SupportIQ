@@ -1,0 +1,30 @@
+KB-002
+Hotel Partner FAQs
+StayEase | Synthetic knowledge article for SupportIQ portfolio demonstration
+Audience: Hotel Partner | Category: Partner Support | Owner: Support Operations
+Status: Synthetic demo content | Version: 1.0
+DEMO NOTICE: Fictional content for product design, retrieval and evaluation; not a real operational policy.
+
+HOW DO I KNOW ONBOARDING IS COMPLETE?
+-------------------------------------
+Check the partner portal status or the formal activation notice. Uploading documents does not by itself mean the property is approved or live.
+
+HOW DO I CORRECT A PROPERTY LISTING?
+------------------------------------
+Submit the correction through the authorised listing workflow and provide accurate supporting details where requested.
+
+WHAT IF I CANNOT FIND A RESERVATION?
+------------------------------------
+Search by the reservation ID and verify property mapping, dates and partner account. If a confirmed reservation remains missing, contact partner support.
+
+CAN I CANCEL A CONFIRMED RESERVATION DIRECTLY?
+----------------------------------------------
+Use the authorised platform process and provide a permitted reason. Do not bypass the platform or make an informal promise about the guest's refund.
+
+WHERE CAN I CHECK SETTLEMENT DETAILS?
+-------------------------------------
+Use the partner settlement statement and reference period. For a discrepancy, contact finance support with the statement and reservation references.
+
+HOW DO I CHANGE PAYOUT DETAILS?
+-------------------------------
+Use the secure verified account-change workflow. Support will not request passwords, OTPs or full banking credentials.

@@ -1,0 +1,69 @@
+
+[
+  {
+    "test_id": "GEN-001",
+    "category": "Answerable",
+    "query": "What happens if I make a duplicate payment?",
+    "audience": "Guest",
+    "evidence_chunk_ids": [
+      "SOP-004_CHUNK_001",
+      "SOP-004_CHUNK_002"
+    ],
+    "expected_outcome": "answer",
+    "required_facts": [
+      "Guest and reservation context must be verified",
+      "Transaction details must be collected",
+      "Duplicate captured transactions or mismatches require a finance/payment case",
+      "Transaction references must be recorded"
+    ],
+    "prohibited_claims": [
+      "Every duplicate payment automatically receives a refund",
+      "A refund has already been processed"
+    ],
+    "expected_citations": [
+      "SOP-004_CHUNK_001",
+      "SOP-004_CHUNK_002"
+    ]
+  },
+  {
+    "test_id": "GEN-002",
+    "category": "Unsupported",
+    "query": "Can you arrange airport pickup for me?",
+    "audience": "Guest",
+    "evidence_chunk_ids": [
+      "KB-001_CHUNK_002",
+      "KB-001_CHUNK_005"
+    ],
+    "expected_outcome": "abstain",
+    "required_facts": [],
+    "prohibited_claims": [
+      "Airport pickup is available",
+      "Airport pickup has been booked",
+      "A driver has been assigned"
+    ],
+    "expected_citations": []
+  },
+  {
+    "test_id": "GEN-003",
+    "category": "Policy Constraint",
+    "query": "Can you guarantee me a complimentary room upgrade?",
+    "audience": "Guest",
+    "evidence_chunk_ids": [
+      "POL-GST-008_CHUNK_004"
+    ],
+    "expected_outcome": "answer",
+    "required_facts": [
+      "An upgrade cannot be promised without authorised approval",
+      "Only remedies in the approved resolution matrix may be offered"
+    ],
+    "prohibited_claims": [
+      "A complimentary upgrade is confirmed",
+      "The upgrade has been approved",
+      "The request has already been routed to a department"
+    ],
+    "expected_citations": [
+      "POL-GST-008_CHUNK_004"
+    ],
+    "ticketing_expectation": "Offer to capture the guest's request; do not claim a ticket has already been created."
+  }
+]

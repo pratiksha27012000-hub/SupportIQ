@@ -1,0 +1,30 @@
+KB-003
+Payment Troubleshooting Guide
+StayEase | Synthetic knowledge article for SupportIQ portfolio demonstration
+Audience: Guest; Hotel Partner | Category: Payments | Owner: Support Operations
+Status: Synthetic demo content | Version: 1.0
+DEMO NOTICE: Fictional content for product design, retrieval and evaluation; not a real operational policy.
+
+PAYMENT SAYS PENDING
+--------------------
+A pending or authorised payment may not be a completed capture. Check the provider/ledger status and reservation status separately.
+
+MONEY APPEARS DEBITED BUT NO BOOKING CONFIRMATION ARRIVED
+---------------------------------------------------------
+Do not assume the booking is confirmed. Contact support with a transaction reference and approximate timestamp; support will check the reservation and payment records.
+
+PAYMENT FAILED
+--------------
+Check the provider status and use the approved retry guidance. Avoid repeated attempts until the status of any earlier attempt is understood.
+
+I SEE TWO CHARGES
+-----------------
+Share the relevant transaction references through the approved secure support channel. Support will determine whether both are captured transactions or one is pending.
+
+WHAT DETAILS SHOULD I NEVER SHARE?
+----------------------------------
+Never share your password, PIN, OTP, CVV or full payment-card number with support.
+
+REFUND IS NOT VISIBLE
+---------------------
+Ask support to verify whether a refund was eligible, initiated, processing or completed. Any timeline must be based on the recorded payment-provider estimate.

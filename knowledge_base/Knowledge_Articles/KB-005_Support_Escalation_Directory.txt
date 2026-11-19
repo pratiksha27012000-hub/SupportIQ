@@ -1,0 +1,34 @@
+KB-005
+Support Escalation Directory
+StayEase | Synthetic knowledge article for SupportIQ portfolio demonstration
+Audience: Guest; Hotel Partner; Internal Support | Category: Support Operations | Owner: Support Operations
+Status: Synthetic demo content | Version: 1.0
+DEMO NOTICE: Fictional content for product design, retrieval and evaluation; not a real operational policy.
+
+GUEST OPERATIONS
+----------------
+Owns guest reservation, cancellation and check-in enquiries that require specialist review.
+
+FINANCE OPERATIONS
+------------------
+Owns payment ledger, refund instruction, duplicate captured transaction and settlement discrepancies.
+
+PARTNER OPERATIONS
+------------------
+Owns partner onboarding, listing, partner account and reservation coordination.
+
+TRUST & SAFETY
+--------------
+Owns suspected account compromise, identity misuse, privacy exposure and safety-related escalation.
+
+GUEST EXPERIENCE
+----------------
+Owns serious room-quality complaints and authorised service-recovery review.
+
+HOW TO ROUTE
+------------
+Select the issue category and severity in the support system, attach reference IDs and concise evidence, and route to the designated queue. This synthetic directory uses team names only; no personal contact details or live emergency numbers are included.
+
+URGENT SITUATIONS
+-----------------
+For immediate danger or medical emergencies, use local emergency services first, then follow the organisation's urgent incident process.

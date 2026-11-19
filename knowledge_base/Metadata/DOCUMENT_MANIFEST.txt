@@ -1,0 +1,27 @@
+POL-GST-001 | Guest Booking & Reservation Policy | Policy | PDF | Guest; Internal Support
+POL-GST-002 | Cancellation & Modification Policy | Policy | PDF | Guest; Internal Support
+POL-GST-003 | Refund & Refund Timeline Policy | Policy | PDF | Guest; Internal Support
+POL-GST-004 | Payment & Billing Policy | Policy | PDF | Guest; Internal Support
+POL-GST-005 | Check-in & Check-out Policy | Policy | PDF | Guest; Internal Support
+POL-GST-006 | Early Check-in & Late Check-out Policy | Policy | PDF | Guest; Internal Support
+POL-GST-007 | Guest Identity Verification Policy | Policy | PDF | Guest; Internal Support
+POL-GST-008 | Guest Complaints & Service Recovery Policy | Policy | PDF | Guest; Internal Support
+POL-HTL-001 | Hotel Partner Onboarding Policy | Policy | PDF | Hotel Partner; Internal Support
+POL-HTL-002 | Hotel Listing & Content Guidelines | Policy | PDF | Hotel Partner; Internal Support
+POL-HTL-003 | Reservation Management Policy | Policy | PDF | Hotel Partner; Internal Support
+POL-HTL-004 | Hotel Partner Cancellation Policy | Policy | PDF | Hotel Partner; Internal Support
+POL-HTL-005 | Commission & Settlement Policy | Policy | PDF | Hotel Partner; Internal Support
+POL-HTL-006 | Hotel Partner Account Management Policy | Policy | PDF | Hotel Partner; Internal Support
+SOP-001 | Guest Booking Issue Resolution | SOP | DOCX | Guest
+SOP-002 | Cancellation Request Handling | SOP | DOCX | Guest
+SOP-003 | Refund Inquiry Handling | SOP | DOCX | Guest
+SOP-004 | Failed & Duplicate Payment Handling | SOP | DOCX | Guest
+SOP-005 | Check-in Issue Resolution | SOP | DOCX | Guest
+SOP-006 | Room Quality Complaint Handling | SOP | DOCX | Guest
+SOP-007 | Hotel Partner Support Handling | SOP | DOCX | Hotel Partner
+SOP-008 | Escalation & Incident Management | SOP | DOCX | Guest; Hotel Partner
+KB-001 | Guest Support FAQs | Knowledge Article | TXT | Guest
+KB-002 | Hotel Partner FAQs | Knowledge Article | TXT | Hotel Partner
+KB-003 | Payment Troubleshooting Guide | Knowledge Article | TXT | Guest; Hotel Partner
+KB-004 | Reservation Troubleshooting Guide | Knowledge Article | TXT | Guest; Hotel Partner
+KB-005 | Support Escalation Directory | Knowledge Article | TXT | Guest; Hotel Partner; Internal Support
