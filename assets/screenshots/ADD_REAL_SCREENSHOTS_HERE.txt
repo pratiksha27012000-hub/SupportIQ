@@ -1,0 +1,2 @@
+Add genuine screenshots captured from the running SupportIQ application here.
+Suggested filenames: guest-chat.png, ticket-dashboard.png, ticket-consent.png, ticket-confirmation.png.
